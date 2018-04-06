@@ -1,0 +1,15 @@
+.info-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.info-nav a {
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.info-nav a:hover {
+  text-decoration: underline;
+}
